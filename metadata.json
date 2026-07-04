@@ -1,0 +1,6 @@
+{
+  "name": "Control de Gastos de Hogar",
+  "description": "Aplicación web interactiva para gestionar el presupuesto familiar, registrar ingresos y gastos por categoría, y analizar las finanzas del hogar de manera sencilla.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
